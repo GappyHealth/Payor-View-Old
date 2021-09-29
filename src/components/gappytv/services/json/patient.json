@@ -1,0 +1,102 @@
+{
+  "daily": [],
+  "weekly": [
+    {
+      "_id": "wsa",
+      "patientID": "1",
+      "firstName": "NORMA",
+      "lastName": "DARR",
+      "phone": "2482295430",
+      "status": "Not Complete",
+      "descriptor": "..."
+    },
+    {
+      "_id": "wsa",
+      "patientID": "2",
+      "firstName": "MARK",
+      "lastName": "CASSEL",
+      "phone": "2486139767",
+      "status": "Not Complete",
+      "descriptor": "..."
+    },
+    {
+      "_id": "wsa",
+      "patientID": "3",
+      "firstName": "JEFFREY",
+      "lastName": "LADUKE",
+      "phone": "2484207672",
+      "status": "Not Complete",
+      "descriptor": "..."
+    },
+    {
+      "_id": "wsa",
+      "patientID": "4",
+      "firstName": "JAMES",
+      "lastName": "LAWSON",
+      "phone": "2488845787",
+      "status": "Not Complete",
+      "descriptor": "..."
+    },
+    {
+      "_id": "wsa",
+      "patientID": "5",
+      "firstName": "DANIEL",
+      "lastName": "OSMINSKI",
+      "phone": "2483912867",
+      "status": "Not Complete",
+      "descriptor": "..."
+    }
+  ],
+  "monthly": [
+    {
+      "_id": "mbc",
+      "patientID": "6",
+      "firstName": "AGNES",
+      "lastName": "DOCK",
+      "sys": "128",
+      "dia": "64",
+      "status": "Not Billed",
+      "descriptor": "..."
+    },
+    {
+      "_id": "mbc",
+      "patientID": "7",
+      "firstName": "ERNEST",
+      "lastName": "ALLEN",
+      "sys": "122",
+      "dia": "82",
+      "status": "Not Billed",
+      "descriptor": "..."
+    },
+    {
+      "_id": "mbc",
+      "patientID": "8",
+      "firstName": "CONSTANCE",
+      "lastName": "WATSON",
+      "sys": "116",
+      "dia": "64",
+      "status": "Not Billed",
+      "descriptor": "..."
+    },
+    {
+      "_id": "mbc",
+      "patientID": "9",
+      "firstName": "ELLEN",
+      "lastName": "HOPE",
+      "sys": "124",
+      "dia": "78",
+      "status": "Not Billed",
+      "descriptor": "..."
+    },
+    {
+      "_id": "mbc",
+      "patientID": "10",
+      "firstName": "GERALD",
+      "lastName": "MELASI",
+      "sys": "138",
+      "dia": "78",
+      "status": "Not Billed",
+      "descriptor": "..."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "insurance" : "BCBS-M",
+    "name" : "BCBS-M",
+    "members_cnt" : "466",
+    "providers" : "25",
+    "practices" : "4",
+    "gaps" : "355",
+    "controlled" : "64",
+    "uncontrolled" : "355",
+    "compliant" : "355",
+    "uncompliant" : "0",
+    "noReading" : "320",
+    "noReadingScheduled" : "71",
+    "noReadingNotScheduled" : "249",
+    "reading" : "35",
+    "readingScheduled" : "13",
+    "readingNotScheduled" : "22"
+}

@@ -1,0 +1,28 @@
+[
+    {
+        "id": "03a94e58-c405-11eb-8529-0242ac130003",
+        "name": "Oak Lake Family Practice",
+        "providers": 2,
+        "patients": 13,
+        "total_gaps": 11,
+        "cbp_gaps": 11,
+        "supd_gaps": 0,
+        "spc_gaps": 0,
+        "cdc_gaps": 0,
+        "ninetyday_gaps": 0,
+        "mammogram_gaps": 0
+    },
+    {
+        "id": "1171ef7c-c414-11eb-8529-0242ac130003",
+        "name": "North Center Physician Office",
+        "providers": 2,
+        "patients": 12,
+        "total_gaps": 11,
+        "cbp_gaps": 11,
+        "supd_gaps": 0,
+        "spc_gaps": 0,
+        "cdc_gaps": 0,
+        "ninetyday_gaps": 0,
+        "mammogram_gaps": 0
+    }
+]

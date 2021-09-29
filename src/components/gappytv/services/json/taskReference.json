@@ -1,0 +1,20 @@
+{
+  "wsa": {
+    "task": "BP Check Appointment Scheduling",
+    "reason": "Call patient in to measure BP",
+    "description": "PATIENT is a Hypertensive. We need to ensure that PATIENT BP is controlled to avoid HTN related complications. It is important that we have a controlled BP on file every calendar year.",
+    "outcomes": {
+      "scheduledTop": "I am confirming that I have scheduled an appointment for PATIENT for the purpose of obtaining a BP read for this calendar year.",
+      "scheduledBottom": "Gappy will automatically see the scheduled appointment and the corresponding BP reading on that date. Based on the reading Gappy will determine next steps for PATIENT",
+      "noAnswerTop": "I am confirming that I have placed an outbound call to PATIENT for the purpose of BP read appointment scheduling, was unable to reach PATIENT, and left a message.",
+      "noAnswerBottom": "In order to maintain practice continuity, I have left a note as a telephone encounter in the practice EMR, so that if PATIENT calls back, there is no confusion on what needs to be done for them."
+    }
+  },
+
+  "mbc": {
+    "task": "Bill CPTIIs",
+    "reason": "The Following patients have controlled BP reads, the payor needs the corresponding CPTII codes billed.",
+    "description": "CPTII codes are reporting codes which allow payors to ID where members’ BPs stand within a controlled or uncontrolled range, any given year. Gappy has automatically paired the appropriate CPTII codes based on the systolic and diastolic readings for you.",
+    "patientName": "multiple"
+  }
+}

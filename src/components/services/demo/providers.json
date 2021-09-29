@@ -1,0 +1,58 @@
+[
+    {
+        "id": "03bf54cd-6e3f-406d-973c-cb50dc7219f7",
+        "practiceID": "03a94e58-c405-11eb-8529-0242ac130003",
+        "physicianName": "Fina Tardiff",
+        "npi": "1974288459",
+        "patients": 7,
+        "total_gaps": 6,
+        "cbp_gaps": 6,
+        "supd_gaps": 0,
+        "spc_gaps": 0,
+        "cdc_gaps": 0,
+        "ninetyday_gaps": 0,
+        "mammogram_gaps": 0
+    },
+    {
+        "id": "14da25d6-b8ae-4614-a215-8cfbc46a4d5a",
+        "practiceID": "03a94e58-c405-11eb-8529-0242ac130003",
+        "physicianName": "Gerald Disick",
+        "npi": "11280433017",
+        "patients": 6,
+        "total_gaps": 5,
+        "cbp_gaps": 5,
+        "supd_gaps": 0,
+        "spc_gaps": 0,
+        "cdc_gaps": 0,
+        "ninetyday_gaps": 0,
+        "mammogram_gaps": 0
+    },
+    {
+        "id": "1a5315d3-39a1-4468-a445-9741feddbfbe",
+        "practiceID": "1171ef7c-c414-11eb-8529-0242ac130003",
+        "physicianName": "Abbie Parlon",
+        "npi": "1320449595",
+        "patients": 7,
+        "total_gaps": 6,
+        "cbp_gaps": 6,
+        "supd_gaps": 0,
+        "spc_gaps": 0,
+        "cdc_gaps": 0,
+        "ninetyday_gaps": 0,
+        "mammogram_gaps": 0
+    },    
+    {
+        "id": "1a5315d3-39a1-4468-a445-9741feddbfbg",
+        "practiceID": "1171ef7c-c414-11eb-8529-0242ac130003",
+        "physicianName": "Jonathon Morrison",
+        "npi": "1760349325",
+        "patients": 5,
+        "total_gaps": 5,
+        "cbp_gaps": 5,
+        "supd_gaps": 0,
+        "spc_gaps": 0,
+        "cdc_gaps": 0,
+        "ninetyday_gaps": 0,
+        "mammogram_gaps": 0
+    }
+]
